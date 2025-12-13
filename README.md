@@ -1,8 +1,9 @@
 # Hi there, I'm Zhihao Chen! 👋
 
 ### AI Student @ UPC & EPFL
-I am a fourth-year **BSc Artificial Intelligence** student at **UPC Barcelona**, currently pursuing an exchange semester in Computer Science at **EPFL (Lausanne)**. My passion lies in bridging the gap between research and practical deployment. I focus on how intelligent agents can learn to **perceive, reason, and create** within dynamic environments. My work primarily intersects: **Self-supervised Learning**, **Multi-Agent Systems** and **Embodied Intelligence**
+I am a fourth-year **BSc Artificial Intelligence** student at **UPC Barcelona**, currently pursuing an exchange semester in Computer Science at **EPFL (Lausanne)**. 
 
+My passion lies in bridging the gap between research and practical deployment. I focus on how intelligent agents can learn to **perceive, reason, and create** within dynamic environments. My work primarily intersects: **Self-supervised Learning**, **Multi-Agent Systems** and **Embodied Intelligence**
 
 ### 🔭 Current Focus
 * **Research Interests:** Emergent Intelligence, Continual Learning, and Representation Learning.
