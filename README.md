@@ -1,19 +1,13 @@
 # Hi there, I'm Zhihao Chen! 👋
 
-### AI Student @ UPC & EPFL
-I am a fourth-year **BSc Artificial Intelligence** student at **UPC Barcelona**, currently pursuing an exchange semester in Computer Science at **EPFL (Lausanne)**. 
+I'm a final-year **BSc Artificial Intelligence** student at **UPC Barcelona**, having recently completed an incredible exchange semester in Computer Science at **EPFL**.
 
-My passion lies in bridging the gap between research and practical deployment. I focus on how intelligent agents can learn to **perceive, reason, and create** within dynamic environments. My work primarily intersects: **Self-supervised Learning**, **Multi-Agent Systems** and **Embodied Intelligence**
+My passion lies in bridging the gap between digital models and the physical world. I'm deeply interested in building intelligent agents that can truly perceive, reason, and continuously learn within dynamic real-world environments.
 
-### 🔭 Current Focus
-* **Research Interests:** Emergent Intelligence, Continual Learning, and Representation Learning.
-* **Currently Working on:** Context-aware Body Language Recognition for mobile robotic platforms at **EPFL BioRob**.
+**🧠 Main Interests:** Multi-Modal Learning, Continual Learning, World Models, and Embodied AI.
 
-### 🏆 Achievements
-* **First Prize Winner**, MERIThon 2025 AI Challenge.
-* **Overall Finalist**, LauzHack 2025.
-* **Academic Honors**, 4 courses with distinction at UPC.
+**🌱 Let's Connect!**
+I genuinely love meeting new people and exchanging ideas. Whether you want to discuss research, brainstorm crazy project ideas, collaborate on open-source, or just chat about the future of AI and robotics, my inbox is always open. 
 
-### 📫 Connect with me
-I am always open to discussing research collaborations or AI engineering opportunities.
+📫 **Reach out to me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhihao-chen-584aa52b5)
