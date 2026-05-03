@@ -1,6 +1,6 @@
 # Hi there, I'm Zhihao Chen! 👋
 
-I'm a final-year **BSc Artificial Intelligence** student at **UPC Barcelona**, having recently completed an incredible exchange semester in Computer Science at **EPFL**.
+I'm a final-year **BSc Artificial Intelligence** student at **UPC Barcelona**, having recently completed an exchange semester in Computer Science at **EPFL**.
 
 My passion lies in bridging the gap between digital models and the physical world. I'm deeply interested in building intelligent agents that can truly perceive, reason, and continuously learn within dynamic real-world environments.
 
